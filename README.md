@@ -1,7 +1,7 @@
 BEHOLD... THE TED-Copter5000
 ==========================
 
-![dronepic](https://github.com/theodorehadges/quadcopter-drone/blob/master/images/selfiedrone.JPG "Drone selfie!")
+![dronepic](https://github.com/theodorehadges/quadcopter-drone/blob/master/images/selfiedrone.jpg "Drone selfie!")
 
 I've always wanted to learn a little about electronics/robotics so this seemed like a fun and challenging place to start. In building this drone, I learned how to read circuit diagrams, solder, code hardware (e.g. interrupts), and more.
 
