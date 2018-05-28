@@ -1,13 +1,13 @@
 BEHOLD... THE TED-Copter5000
 ==========================
 
-![drone_pic](https://github.com/theodorehadges/quadcopter-drone/images/tabledrone.jpg "The drone!")
+![drone_pic](https://github.com/theodorehadges/quadcopter-drone/blob/master/images/tabledrone.JPG "The drone!")
 
 I've always wanted to learn a little about electronics/robotics so this seemed like a fun and challenging place to start. In building this drone, I learned how to read circuit diagrams, solder, code hardware (e.g. interrupts), and more.
 
 The Ted-Copter5000 is an Arduino-based 4-motor/propeller quadcopter controlled by a radio transmitter/receiver. It uses sensors (a breakoutboard with a gyroscope and accelerometer) to automatically orient itself to stay upright.
 
-#Bill of Materials (general):
+# Bill of Materials (general):
 -frame with integrated PCB wiring
 -accelerometer/gyroscope breakout board
 -4 motors and ESCs
