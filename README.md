@@ -17,7 +17,9 @@ The TED-Copter5000 is an Arduino-based 4-motor/propeller quadcopter controlled b
 -arduino UNO board
 -standard electronics components (resistors, diodes, wire, LEDs, etc) 
 
-![dronepic](https://github.com/theodorehadges/quadcopter-drone/blob/master/images/tabledrone.JPG "The drone!")
+<img src="https://github.com/theodorehadges/quadcopter-drone/blob/master/images/tabledrone.JPG" alt="dronepic" style="width: 50%;"/>
+/*![dronepic](https://github.com/theodorehadges/quadcopter-drone/blob/master/images/tabledrone.JPG "The drone!")
+*/
 
 NOTE: I did not come up with this design myself. I heavily referenced [this](http://www.brokking.net) source for the first iteration of this build. 
 
