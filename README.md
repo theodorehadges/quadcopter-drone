@@ -30,7 +30,7 @@ NOTE: I did not come up with this design myself. I heavily referenced [this](htt
   * mount the camera receiver on the frame and try to use same battery as
     everything else
   * optional:  map a lever on the drone's controller
-    (transmitter) so that the camera gimbal can be rotated by the person on
+    (transmitter) to the gimbal so that the camera gimbal can be rotated by the person on
 the ground with the controller
 * home GPS location so that if it goes out of range, it returns to home
   automatically
